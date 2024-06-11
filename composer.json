@@ -1,0 +1,17 @@
+{
+  "name": "moh3a/mailer",
+  "autoload": {
+    "psr-4": {
+      "Moh3a\\Mailer\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "moh3a",
+      "email": "aitabdelmalekma@gmail.com"
+    }
+  ],
+  "require": {
+    "phpmailer/phpmailer": "^6.9"
+  }
+}
